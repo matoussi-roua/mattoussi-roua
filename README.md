@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattoussi-roua
+- 👋 Hi, I’m @matoussi-roua
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html css c 
 - 📫 How to reach me rouamatoussi@gmail.com
